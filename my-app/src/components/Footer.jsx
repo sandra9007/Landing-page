@@ -13,7 +13,7 @@
                 <Car size={24} />
               </div>
               <div>
-                <span className="text-2xl font-bold">Moto Mall</span>
+                <span className="text-2xl font-bold">Moto Selles</span>
                 <p className="text-gray-400 text-sm">Smart Vehicle Inventory Management</p>
               </div>
             </div>
@@ -25,7 +25,7 @@
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-500">
-            <p>© 2026 Moto Mall. All rights reserved. Designed for automotive professionals.</p>
+            <p>© 2026 Moto selles. All rights reserved. Designed for automotive professionals.</p>
             <p className="text-sm mt-2">Manage. Display. Sell. Smarter.</p>
           </div>
         </div>

@@ -84,7 +84,6 @@ const Screenshot = () => {
             </div>
           </div>
           
-          {/* Phone Frame for Search Screenshot */}
           <div className="relative w-[320px] h-[640px] mx-auto">
             <div className="absolute inset-0 bg-gradient-to-b from-gray-800 to-gray-900 rounded-[2.8rem] border-[12px] border-gray-900 shadow-xl"></div>
             <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-36 h-5 bg-gray-900 rounded-b-lg z-20"></div>

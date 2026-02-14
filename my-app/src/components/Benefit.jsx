@@ -11,7 +11,7 @@ const Benefit = () => {
                     <div className="bg-gradient-to-r from-[#a4b937] to-[#526103] rounded-2xl p-8 md:p-12 text-white">
                         <div className="flex items-center gap-4 mb-8">
                             <Zap className="text-yellow-300" size={32} />
-                            <h2 className="text-3xl md:text-4xl font-bold">Why Choose Moto Mall?</h2>
+                            <h2 className="text-3xl md:text-4xl font-bold">Why Choose Moto Selles?</h2>
                         </div>
 
                         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

@@ -17,7 +17,7 @@
                 👥 Built for Industry Professionals
               </h2>
               <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-                Moto Mall is designed for professionals who need efficient inventory management
+                Moto Selles is designed for professionals who need efficient inventory management
               </p>
             </div>
 
